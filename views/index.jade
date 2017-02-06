@@ -5,5 +5,5 @@ html
     link(href='/build/combined.css' rel='stylesheet' type='text/css')
 
     title= pageTitle
-  body(data-ng-app='kitApp')
+  body(data-ng-app='kitApp') {{'World' | greet}}
     script(src='/build/combined.js')

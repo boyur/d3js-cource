@@ -1,7 +1,12 @@
 require('../../bower_components/angular');
 
-angular.module('kitApp', []);
+var myAppModule = angular.module('kitApp', []);
 
+myAppModule.filter('greet', function() {
+  return function(name) {
+    return 'Hello, ' + name + '!';
+  };
+});
 // Module
 //   Constant
 //   Value
