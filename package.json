@@ -1,0 +1,40 @@
+{
+  "name": "kit",
+  "version": "1.0.0",
+  "description": "kit",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-plumber": "latest",
+    "browserify": "latest",
+    "gulp-sass": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "browser-sync": "latest",
+    "vinyl-source-stream": "latest",
+    "gulp-sourcemaps": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislavdovg/Geekbrains-Angular-D3.git"
+  },
+  "keywords": [
+    "angular",
+    "d3",
+    "geekbrains"
+  ],
+  "author": "Artem Boyur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislavdovg/Geekbrains-Angular-D3/issues"
+  },
+  "homepage": "https://github.com/vladislavdovg/Geekbrains-Angular-D3"
+}

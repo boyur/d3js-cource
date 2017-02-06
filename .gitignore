@@ -11,3 +11,14 @@ gen
 .idea/d3js-cource.iml
 .idea/modules.xml
 .idea/workspace.xml
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+node_modules
+bower_components
