@@ -11,3 +11,6 @@ gen
 .idea/d3js-cource.iml
 .idea/modules.xml
 .idea/workspace.xml
+
+bower_components
+build
